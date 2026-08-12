@@ -109,6 +109,11 @@ Mustafa Mirzavandi
 
 NovaMine AI
 
----
+---# NovaMine AI Frontend
+
+Frontend application for the NovaMine AI platform.
+
+This directory contains the user interface, pages, components,
+assets, services, and frontend application structure.
 
 «Building the future of an intelligent digital ecosystem.»
